@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👩‍💻 Perfil Profesional
 
-<!--
-**naimireth/naimireth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy Técnico Superior Universitario en Informática, egresada en Venezuela y actualmente residiendo en Madrid, España. Me encuentro en proceso de homologación de mi título académico como Ingeniería Técnica.
 
-Here are some ideas to get you started:
+Me apasiona el desarrollo frontend y la creación de interfaces modernas, funcionales y centradas en la experiencia del usuario. Actualmente continúo ampliando mis conocimientos en Inteligencia Artificial y análisis de datos con Python, combinando desarrollo web con nuevas tecnologías emergentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una persona curiosa, en aprendizaje constante y con gran interés en seguir creciendo profesionalmente dentro del mundo tecnológico.
+
+---
+
+## 💻 Tecnologías y Conocimientos
+
+### Frontend
+- Vue.js
+- JavaScript
+- HTML5
+- CSS3
+- Diseño de interfaces web
+
+### Programación y Desarrollo
+- Python (en formación — IA y Data Analysis)
+- PHP (curso realizado)
+- Git & GitHub
+
+### Otros conocimientos
+- Diseño gráfico
+- Control de versiones
+- Bases del desarrollo web moderno
+
+---
+
+## 📚 Formación y Cursos
+- 🎓 Técnico Superior Universitario en Informática — Venezuela
+- 📘 Curso de Git y GitHub
+- 📘 Curso de PHP
+- 📘 Formación en Diseño Gráfico
+- 🤖 Curso en Inteligencia Artificial y Python para Análisis de Datos (en curso)
+
+---
+
+## 🚀 Intereses Profesionales
+- Desarrollo Frontend
+- Inteligencia Artificial
+- Análisis de Datos
+- Experiencia de Usuario (UX/UI)
+- Aprendizaje continuo en nuevas tecnologías
+
+---
+
+## 🌍 Ubicación
+Madrid, España
+
+---
+
+## 📈 Objetivo Profesional
+Seguir desarrollándome como Frontend Developer integrando conocimientos de Inteligencia Artificial y análisis de datos, participando en proyectos tecnológicos que aporten innovación y crecimiento profesional continuo.
+
