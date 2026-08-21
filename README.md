@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="#-proyectos-destacados">Proyectos</a> •
+    <a href="#-proyectos-recientes">Proyectos</a> •
     <a href="#-stack-tecnol%C3%B3gico">Habilidades</a> •
     <a href="https://linkedin.com/in/tu-usuario" target="_blank">LinkedIn</a>
   </p>
