@@ -79,14 +79,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide=html,css" height="150" alt="Top Languages" />
-</div>
-
----
 
 <div align="center">
   <sub>Diseñado con pasión por la tecnología y la innovación</sub>
