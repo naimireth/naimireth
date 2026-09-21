@@ -67,15 +67,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![ZooSprint](https://img.shields.io/badge/ZooSprint-4A90E2?style=for-the-badge&logo=task&logoColor=white)
 
----
 
-### 📌 Proyectos Recientes
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **🌊 AquaRoute AI** | Modelo de Regresión Logística para calcular riesgos de incidencia en especies marinas. | `FastAPI` `Vue.js` `Scikit-Learn` `Docker` |
-| **🎀 PinkRibbon Management** | Análisis no supervisado (Clustering) de patrones biomédicos en remisión de cáncer de mama. | `FastAPI` `Vue.js` `K-Means` `PostgreSQL` |
-| **🐾 ZooPlot AI** | Ajuste y visualización de regresiones polinómicas para estudiar comportamientos animales. | `FastAPI` `Vue.js` `Scikit-Learn` `Streamlit` |
-| **🐾 FriendlyPaw** | Sistema integral de gestión veterinaria, control de existencias y facturación. | `FastAPI` `React` `PostgreSQL` `Docker` |
 
 ---
 
